@@ -15,5 +15,4 @@ Requests: HTTP library for web scraping.
 BeautifulSoup: HTML parsing and data extraction.
 Scikit-learn: Machine learning library for building and evaluating the predictive model.
 
-2024 September
 Yusuf Kelashipour
